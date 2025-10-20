@@ -1,3 +1,7 @@
+# MuCoCo Repo
+
+[GitHub Repository](https://github.com/mucoco-tester/mucoco-tester.github.io)
+
 # MuCoCo: Code Consistency Testing Framework
 
 A research framework for evaluating the consistency and reliability of Large Language Models (LLMs) in code-related tasks through code mutation.
@@ -240,4 +244,4 @@ Wait for the packages to finish installing. You may need to do some troubleshoot
 
 Scripts for identifying code inconsistency scores are found under `MuCoCo_results/notebooks` from the project root directoy. The notebooks are named according to the RQ the results are reported in. Navigate to that project sub directory for more information.
 
-You will need to download the MuCoCo experiment results from XXXX and store it in `MuCoCo_results` folder from the project root directory. The name of the folder storing the results should be named `MuCoCo_experiment_results`. These results are necessary for running the results aggregation scripts.
+You will need to download the MuCoCo experiment results from [Figshare](https://figshare.com/articles/journal_contribution/_b_MuCoCo_Code_Consistency_Testing_Framework_Replication_Package_b_/30402541) and store it in `MuCoCo_results` folder from the project root directory. The name of the folder storing the results should be named `MuCoCo_experiment_results`. These results are necessary for running the results aggregation scripts.
